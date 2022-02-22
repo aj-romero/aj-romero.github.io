@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alberjose
 - 👀 I’m interested in computer networking, software development and databases
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning react javascript
 - 💞️ I’m looking to collaborate on python, php and javascript
 - 📫 How to reach me contact to alberjose.romero@gmail.com
 
